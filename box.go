@@ -117,4 +117,3 @@ func (b *box) RemoveAllCircles() error {
 
 	return nil
 }
-Footer
